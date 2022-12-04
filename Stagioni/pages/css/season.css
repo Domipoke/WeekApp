@@ -1,0 +1,13 @@
+.autunno {
+    --bgSeasonColor: #d1af94;
+}
+.inverno {
+    --bgSeasonColor: #97d5e0;
+}
+.primavera {
+    --bgSeasonColor: #79c753;
+}
+.estate {
+    --bgSeasonColor: #d9b74b;
+    /* #d9b74b #F99471 */
+}

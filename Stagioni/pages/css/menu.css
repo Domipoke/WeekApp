@@ -1,0 +1,23 @@
+.menu {
+    display: inline-flex;
+    flex: auto;
+    background-color: #222;
+    width: 100vw;
+    /* justify-content: space-around; */
+}
+.menu a {
+    color: whitesmoke;
+    text-decoration-line: none;
+    text-transform: uppercase;
+}
+.menu .menuitem {
+    box-sizing: border-box;
+    width: 100%;
+    justify-content: center;
+    align-items: middle;
+    text-align: center;
+}
+.menu .menuitem:hover {
+    background-color: var(--bgSeasonColor);
+}
+
